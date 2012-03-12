@@ -1,0 +1,18 @@
+{
+  "author": "rhio kim <rhio.kim@gmail.com> (hthtp://about.me/rhiokim)",
+  "name": "markdown-blog",
+  "description": "markdown + twitter bootstrap = blog engine",
+  "version": "0.0.1",
+  "homepage": "http://github.com/rhiokim/markdown-blog",
+  "repository": {
+    "url": "https://github.com/rhiokim/markdown-blog"
+  },
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+    "robotskirt": "0.2.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
